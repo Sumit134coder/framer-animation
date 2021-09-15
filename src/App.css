@@ -1,0 +1,12 @@
+.back{
+  background-color: black;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.animeDiv{
+  background: red;
+  height: 100px;
+  width: 100px;
+}
